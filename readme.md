@@ -2,4 +2,4 @@
 
 
 
-[1]: http://scratch.mit.edu
+[1]: https://notdiamondz.github.io/smoothtext/
