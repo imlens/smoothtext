@@ -2,4 +2,4 @@
 
 
 
-[1]: https://notdiamondz.github.io/smoothtext/
+[1]: https://xlunarr.github.io/smoothtext/
